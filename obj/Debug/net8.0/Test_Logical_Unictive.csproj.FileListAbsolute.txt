@@ -1,0 +1,14 @@
+D:\Lamaran\Unictive\Test_Logical_Unictive\bin\Debug\net8.0\Test_Logical_Unictive.exe
+D:\Lamaran\Unictive\Test_Logical_Unictive\bin\Debug\net8.0\Test_Logical_Unictive.deps.json
+D:\Lamaran\Unictive\Test_Logical_Unictive\bin\Debug\net8.0\Test_Logical_Unictive.runtimeconfig.json
+D:\Lamaran\Unictive\Test_Logical_Unictive\bin\Debug\net8.0\Test_Logical_Unictive.dll
+D:\Lamaran\Unictive\Test_Logical_Unictive\bin\Debug\net8.0\Test_Logical_Unictive.pdb
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.AssemblyInfoInputs.cache
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.AssemblyInfo.cs
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.csproj.CoreCompileInputs.cache
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.dll
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\refint\Test_Logical_Unictive.dll
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.pdb
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\Test_Logical_Unictive.genruntimeconfig.cache
+D:\Lamaran\Unictive\Test_Logical_Unictive\obj\Debug\net8.0\ref\Test_Logical_Unictive.dll
